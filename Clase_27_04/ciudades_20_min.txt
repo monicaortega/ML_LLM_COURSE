@@ -1,0 +1,33 @@
+Texto sobre las Ciudades 20 Minutos
+
+Las ciudades 20 minutos son un concepto urbanístico que busca mejorar la calidad de vida de los habitantes urbanos. 
+La idea principal es que todos los servicios esenciales y las necesidades diarias de una persona estén disponibles a una distancia de 20 minutos a pie o en bicicleta desde su hogar. 
+Esto incluye trabajo, compras, educación, atención médica, ocio y espacios verdes. 
+El objetivo es reducir la dependencia del automóvil, disminuir la contaminación, mejorar la salud pública y fomentar un sentido de comunidad más fuerte. 
+Ciudades como París, Melbourne y Portland están implementando este concepto en su planificación urbana. Los beneficios incluyen una menor congestión del tráfico, aire más limpio, mayor actividad física de los residentes y una economía local más vibrante. 
+Sin embargo, los desafíos incluyen la necesidad de una planificación cuidadosa, inversión en infraestructura y posibles aumentos en los costos de vivienda en áreas bien conectadas.
+
+Según un estudio reciente del Instituto Nacional de Estadística (INE), el concepto de ciudades de 15-20 minutos ya es una realidad parcial en España:
+
+- Cobertura de Servicios: El 90% de los hogares en ciudades de más de 50.000 habitantes tienen servicios esenciales cerca, incluyendo:
+  - Colegios
+  - Farmacias
+  - Centros de salud
+  - Hospitales
+  - Supermercados
+  - Bares y restaurantes
+
+Desafíos Actuales
+
+A pesar de los avances, persiste un reto importante: la proximidad al trabajo. Muchos ciudadanos aún no pueden acceder a sus centros laborales dentro del marco de los 20 minutos.
+
+Contexto Político
+
+El concepto ha generado debate político, con algunos sectores criticando la idea como un intento de "encerrar" a las personas en su entorno más próximo.
+
+Tecnología de Apoyo
+
+Herramientas como Google Maps están desarrollando funcionalidades que pueden ayudar a implementar este concepto, como:
+- Rutas de transporte público optimizadas
+- Información detallada sobre tiempos de desplazamiento
+- Opciones de filtrado de rutas según preferencias
